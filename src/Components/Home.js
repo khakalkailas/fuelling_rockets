@@ -42,7 +42,7 @@ function Home() {
                   </ol>
                   <div className="carousel-inner">
                      <div className="carousel-item active">
-                        <img src="../images/slider/b1.jpg" className="d-block w-100" alt="..."/>
+                        <img src="https://khakalkailas.github.io/fuelling_rockets/images/slider/b1.jpg" className="d-block w-100" alt="..."/>
                      </div>
                      <div className="carousel-item">
                         <img src="images/slider/b2.jpg" className="d-block w-100" alt="..."/>

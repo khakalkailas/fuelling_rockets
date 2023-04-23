@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuelling_rockets/static/css/main.b53d8ca5.css",
+    "main.js": "/fuelling_rockets/static/js/main.d5a73f2e.js",
+    "static/js/787.01b59a10.chunk.js": "/fuelling_rockets/static/js/787.01b59a10.chunk.js",
+    "index.html": "/fuelling_rockets/index.html",
+    "main.b53d8ca5.css.map": "/fuelling_rockets/static/css/main.b53d8ca5.css.map",
+    "main.d5a73f2e.js.map": "/fuelling_rockets/static/js/main.d5a73f2e.js.map",
+    "787.01b59a10.chunk.js.map": "/fuelling_rockets/static/js/787.01b59a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53d8ca5.css",
+    "static/js/main.d5a73f2e.js"
+  ]
+}
